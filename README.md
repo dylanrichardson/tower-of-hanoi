@@ -1,0 +1,1 @@
+This program allows a human to play the Tower of Hanoi. It displays the tower configurations in the console using the [bitmap2console](https://github.com/drich14/bitmap2console) library.
